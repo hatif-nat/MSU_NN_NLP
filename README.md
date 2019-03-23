@@ -1,1 +1,1 @@
-# MSU_deep_learning_for_NLP
+# MSU_NN_NLP
